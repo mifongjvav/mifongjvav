@@ -8,6 +8,7 @@
 - smmomm@126.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 我认识一个同性恋：未来世界302 QQ：938767093
 
 <!---
 mifongjvav/mifongjvav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
