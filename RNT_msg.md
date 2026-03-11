@@ -1,6 +1,6 @@
 **欢迎使用RE:now!text**
 
-视觉小说？只需终端。
+终端无限，故事可见
 
 > 此项目正在考虑改名，如有兴趣，请前往<https://github.com/mifongjvav/RE-now-text/issues/new>
 
